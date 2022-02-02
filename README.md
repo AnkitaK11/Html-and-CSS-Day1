@@ -1,5 +1,5 @@
 # Html-and-CSS-Day1
-Create an HTML Webpage  Add: +Add: Your Name | As: heading  title  + Add: Why do you want to learn HTML CSS:  ZERO TO HERO? | As: heading  Add: Answer to it  Bonus: you can add colors to page and text
+
 <html> 
     <head> 
         <title>
